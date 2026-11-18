@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # Set these in your hosting provider's Environment Variables.
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "").9017336457:AAGPOc_7esRxd15zYfzsj4Rp3m-SqtjVujc()
 OWNER_ID = int(os.getenv("OWNER_ID", "8824603452"))
 DB_PATH = os.getenv("DB_PATH", "onekey_store.db")
 QR_IMAGE = os.getenv("QR_IMAGE", "aba_qr.png")
